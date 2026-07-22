@@ -1,0 +1,2100 @@
+{
+  "name": "Tug the Table",
+  "slug": "tug-the-table",
+  "entryUrl": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/index.html",
+  "capturedAt": "2026-07-22T10:13:42.363Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/index.html",
+      "file": "index.html",
+      "bytes": 1512,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/style.css",
+      "file": "style.css",
+      "bytes": 635,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/supportcheck.js",
+      "file": "scripts/supportcheck.js",
+      "bytes": 2314,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/offlineclient.js",
+      "file": "scripts/offlineclient.js",
+      "bytes": 603,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/register-sw.js",
+      "file": "scripts/register-sw.js",
+      "bytes": 303,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/box2d.wasm.js",
+      "file": "box2d.wasm.js",
+      "bytes": 282532,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/main.js",
+      "file": "scripts/main.js",
+      "bytes": 118253,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/dispatchworker.js",
+      "file": "scripts/dispatchworker.js",
+      "bytes": 3788,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/jobworker.js",
+      "file": "scripts/jobworker.js",
+      "bytes": 3127,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/scripts/c3runtime.js",
+      "file": "scripts/c3runtime.js",
+      "bytes": 1297607,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/data.json",
+      "file": "data.json",
+      "bytes": 764636,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/icons/icon-512.png",
+      "file": "icons/icon-512.png",
+      "bytes": 126972,
+      "status": 200,
+      "type": "other",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/box2d.wasm",
+      "file": "box2d.wasm",
+      "bytes": 246906,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "file": "_external/html5.api.gamedistribution.com/main.min.js",
+      "bytes": 648851,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/butonclick.webm",
+      "file": "media/butonclick.webm",
+      "bytes": 1358,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final1.webm",
+      "file": "media/final1.webm",
+      "bytes": 222030,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final2.webm",
+      "file": "media/final2.webm",
+      "bytes": 192224,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final3.webm",
+      "file": "media/final3.webm",
+      "bytes": 149282,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final5.mp3",
+      "file": "media/final5.mp3",
+      "bytes": 328159,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final7.webm",
+      "file": "media/final7.webm",
+      "bytes": 89388,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final6.webm",
+      "file": "media/final6.webm",
+      "bytes": 84950,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final8.webm",
+      "file": "media/final8.webm",
+      "bytes": 104595,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final9.webm",
+      "file": "media/final9.webm",
+      "bytes": 70207,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final10.webm",
+      "file": "media/final10.webm",
+      "bytes": 50084,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move1.webm",
+      "file": "media/move1.webm",
+      "bytes": 5016,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move3.webm",
+      "file": "media/move3.webm",
+      "bytes": 6582,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet18.png",
+      "file": "images/shared-0-sheet18.png",
+      "bytes": 7747,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet20.png",
+      "file": "images/shared-0-sheet20.png",
+      "bytes": 17294,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move2.webm",
+      "file": "media/move2.webm",
+      "bytes": 5251,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move5.webm",
+      "file": "media/move5.webm",
+      "bytes": 3734,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move4.webm",
+      "file": "media/move4.webm",
+      "bytes": 4509,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet0.png",
+      "file": "images/shared-1-sheet0.png",
+      "bytes": 682757,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet23.png",
+      "file": "images/shared-0-sheet23.png",
+      "bytes": 20574,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet22.png",
+      "file": "images/shared-0-sheet22.png",
+      "bytes": 24319,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet19.png",
+      "file": "images/shared-0-sheet19.png",
+      "bytes": 28011,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet28.png",
+      "file": "images/shared-0-sheet28.png",
+      "bytes": 7521,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet21.png",
+      "file": "images/shared-0-sheet21.png",
+      "bytes": 16870,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet26.png",
+      "file": "images/shared-0-sheet26.png",
+      "bytes": 20075,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet25.png",
+      "file": "images/shared-0-sheet25.png",
+      "bytes": 23340,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet24.png",
+      "file": "images/shared-0-sheet24.png",
+      "bytes": 26998,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/final11.webm",
+      "file": "media/final11.webm",
+      "bytes": 42833,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet13.png",
+      "file": "images/shared-0-sheet13.png",
+      "bytes": 72096,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet12.png",
+      "file": "images/shared-0-sheet12.png",
+      "bytes": 68536,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet11.png",
+      "file": "images/shared-1-sheet11.png",
+      "bytes": 123287,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet10.png",
+      "file": "images/shared-1-sheet10.png",
+      "bytes": 125445,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet26.png",
+      "file": "images/shared-1-sheet26.png",
+      "bytes": 44469,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet14.png",
+      "file": "images/shared-1-sheet14.png",
+      "bytes": 1124,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet23.png",
+      "file": "images/shared-1-sheet23.png",
+      "bytes": 31189,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet27.png",
+      "file": "images/shared-1-sheet27.png",
+      "bytes": 644,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet12.png",
+      "file": "images/shared-1-sheet12.png",
+      "bytes": 162482,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet16.png",
+      "file": "images/shared-0-sheet16.png",
+      "bytes": 33396,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet25.png",
+      "file": "images/shared-1-sheet25.png",
+      "bytes": 86777,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet15.png",
+      "file": "images/shared-0-sheet15.png",
+      "bytes": 40016,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet35.png",
+      "file": "images/shared-1-sheet35.png",
+      "bytes": 5755,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet22.png",
+      "file": "images/shared-1-sheet22.png",
+      "bytes": 27399,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet17.png",
+      "file": "images/shared-0-sheet17.png",
+      "bytes": 13575,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet10.png",
+      "file": "images/shared-0-sheet10.png",
+      "bytes": 81965,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet8.png",
+      "file": "images/shared-0-sheet8.png",
+      "bytes": 30531,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet29.png",
+      "file": "images/shared-1-sheet29.png",
+      "bytes": 31677,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet11.png",
+      "file": "images/shared-0-sheet11.png",
+      "bytes": 36524,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet7.png",
+      "file": "images/shared-0-sheet7.png",
+      "bytes": 604,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet9.png",
+      "file": "images/shared-0-sheet9.png",
+      "bytes": 40067,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet28.png",
+      "file": "images/shared-1-sheet28.png",
+      "bytes": 8992,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/hitbody1.webm",
+      "file": "media/hitbody1.webm",
+      "bytes": 12905,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/hitbody2.webm",
+      "file": "media/hitbody2.webm",
+      "bytes": 5035,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot2.mp3",
+      "file": "media/shoot2.mp3",
+      "bytes": 5724,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot1.mp3",
+      "file": "media/shoot1.mp3",
+      "bytes": 4608,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/move6.webm",
+      "file": "media/move6.webm",
+      "bytes": 3734,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot3.mp3",
+      "file": "media/shoot3.mp3",
+      "bytes": 6552,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot7.mp3",
+      "file": "media/shoot7.mp3",
+      "bytes": 5004,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot5.mp3",
+      "file": "media/shoot5.mp3",
+      "bytes": 5940,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot9.mp3",
+      "file": "media/shoot9.mp3",
+      "bytes": 6804,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot8.mp3",
+      "file": "media/shoot8.mp3",
+      "bytes": 4176,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/buttoon.webm",
+      "file": "media/buttoon.webm",
+      "bytes": 1713,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tablehit.mp3",
+      "file": "media/tablehit.mp3",
+      "bytes": 8681,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot4.mp3",
+      "file": "media/shoot4.mp3",
+      "bytes": 9864,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/470083__sheyvan__music-orchestral-victory-fanfare.webm",
+      "file": "media/470083__sheyvan__music-orchestral-victory-fanfare.webm",
+      "bytes": 55644,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tarata.webm",
+      "file": "media/tarata.webm",
+      "bytes": 201476,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet3.png",
+      "file": "images/shared-1-sheet3.png",
+      "bytes": 657257,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/66952__benboncan__boxing-bell-1.webm",
+      "file": "media/66952__benboncan__boxing-bell-1.webm",
+      "bytes": 138135,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet4.png",
+      "file": "images/shared-1-sheet4.png",
+      "bytes": 728875,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/blip_04.webm",
+      "file": "media/blip_04.webm",
+      "bytes": 3590,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/explosion_large.webm",
+      "file": "media/explosion_large.webm",
+      "bytes": 23036,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot1.webm",
+      "file": "media/bot1.webm",
+      "bytes": 9502,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/explosion_medium.webm",
+      "file": "media/explosion_medium.webm",
+      "bytes": 23680,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot9.webm",
+      "file": "media/bot9.webm",
+      "bytes": 29970,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot7.webm",
+      "file": "media/bot7.webm",
+      "bytes": 16104,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot8.webm",
+      "file": "media/bot8.webm",
+      "bytes": 15109,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot6.webm",
+      "file": "media/bot6.webm",
+      "bytes": 7426,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot4.webm",
+      "file": "media/bot4.webm",
+      "bytes": 23809,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot3.webm",
+      "file": "media/bot3.webm",
+      "bytes": 15584,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot5.webm",
+      "file": "media/bot5.webm",
+      "bytes": 23809,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tap4.webm",
+      "file": "media/tap4.webm",
+      "bytes": 5938,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tap3.webm",
+      "file": "media/tap3.webm",
+      "bytes": 5938,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tap.webm",
+      "file": "media/tap.webm",
+      "bytes": 6599,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/tap2.webm",
+      "file": "media/tap2.webm",
+      "bytes": 7025,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet4.png",
+      "file": "images/shared-0-sheet4.png",
+      "bytes": 224945,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet6.png",
+      "file": "images/shared-0-sheet6.png",
+      "bytes": 234429,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet31.png",
+      "file": "images/shared-1-sheet31.png",
+      "bytes": 23221,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet20.png",
+      "file": "images/shared-1-sheet20.png",
+      "bytes": 14955,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet24.png",
+      "file": "images/shared-1-sheet24.png",
+      "bytes": 43868,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet18.png",
+      "file": "images/shared-1-sheet18.png",
+      "bytes": 223556,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet27.png",
+      "file": "images/shared-0-sheet27.png",
+      "bytes": 12993,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet1.png",
+      "file": "images/bottle-sheet1.png",
+      "bytes": 7183,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet9.png",
+      "file": "images/shared-1-sheet9.png",
+      "bytes": 350316,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet6.png",
+      "file": "images/shared-1-sheet6.png",
+      "bytes": 171636,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet30.png",
+      "file": "images/shared-1-sheet30.png",
+      "bytes": 27719,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet0.png",
+      "file": "images/bottle-sheet0.png",
+      "bytes": 22770,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet3.png",
+      "file": "images/bottle-sheet3.png",
+      "bytes": 9920,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet5.png",
+      "file": "images/bottle-sheet5.png",
+      "bytes": 6132,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet9.png",
+      "file": "images/bottle-sheet9.png",
+      "bytes": 5359,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet4.png",
+      "file": "images/bottle-sheet4.png",
+      "bytes": 6011,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet17.png",
+      "file": "images/shared-1-sheet17.png",
+      "bytes": 26373,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet6.png",
+      "file": "images/bottle-sheet6.png",
+      "bytes": 7070,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet13.png",
+      "file": "images/shared-1-sheet13.png",
+      "bytes": 397135,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet15.png",
+      "file": "images/shared-1-sheet15.png",
+      "bytes": 318452,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet5.png",
+      "file": "images/shared-1-sheet5.png",
+      "bytes": 519202,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet16.png",
+      "file": "images/shared-1-sheet16.png",
+      "bytes": 10947,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet14.png",
+      "file": "images/shared-0-sheet14.png",
+      "bytes": 110385,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet8.png",
+      "file": "images/shared-1-sheet8.png",
+      "bytes": 499419,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet2.png",
+      "file": "images/shared-0-sheet2.png",
+      "bytes": 499319,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet7.png",
+      "file": "images/shared-1-sheet7.png",
+      "bytes": 504108,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet31.png",
+      "file": "images/bommmmm-sheet31.png",
+      "bytes": 53240,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet5.png",
+      "file": "images/shared-0-sheet5.png",
+      "bytes": 115720,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet30.png",
+      "file": "images/bommmmm-sheet30.png",
+      "bytes": 55024,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet29.png",
+      "file": "images/bommmmm-sheet29.png",
+      "bytes": 66941,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet27.png",
+      "file": "images/bommmmm-sheet27.png",
+      "bytes": 55920,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet26.png",
+      "file": "images/bommmmm-sheet26.png",
+      "bytes": 40881,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet28.png",
+      "file": "images/bommmmm-sheet28.png",
+      "bytes": 65879,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet25.png",
+      "file": "images/bommmmm-sheet25.png",
+      "bytes": 44266,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet1.png",
+      "file": "images/shared-0-sheet1.png",
+      "bytes": 504108,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet23.png",
+      "file": "images/bommmmm-sheet23.png",
+      "bytes": 50834,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet24.png",
+      "file": "images/bommmmm-sheet24.png",
+      "bytes": 47666,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet22.png",
+      "file": "images/bommmmm-sheet22.png",
+      "bytes": 56590,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet21.png",
+      "file": "images/bommmmm-sheet21.png",
+      "bytes": 64361,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet17.png",
+      "file": "images/bommmmm-sheet17.png",
+      "bytes": 90097,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet20.png",
+      "file": "images/bommmmm-sheet20.png",
+      "bytes": 71325,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet14.png",
+      "file": "images/bommmmm-sheet14.png",
+      "bytes": 106430,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet13.png",
+      "file": "images/bommmmm-sheet13.png",
+      "bytes": 110873,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet15.png",
+      "file": "images/bommmmm-sheet15.png",
+      "bytes": 101786,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet19.png",
+      "file": "images/bommmmm-sheet19.png",
+      "bytes": 77361,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet16.png",
+      "file": "images/bommmmm-sheet16.png",
+      "bytes": 95823,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet12.png",
+      "file": "images/bommmmm-sheet12.png",
+      "bytes": 113133,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet11.png",
+      "file": "images/bommmmm-sheet11.png",
+      "bytes": 114961,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet6.png",
+      "file": "images/bommmmm-sheet6.png",
+      "bytes": 82123,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet2.png",
+      "file": "images/shared-1-sheet2.png",
+      "bytes": 667820,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet5.png",
+      "file": "images/bommmmm-sheet5.png",
+      "bytes": 44031,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet3.png",
+      "file": "images/bommmmm-sheet3.png",
+      "bytes": 18628,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet1.png",
+      "file": "images/shared-1-sheet1.png",
+      "bytes": 666710,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet2.png",
+      "file": "images/bommmmm-sheet2.png",
+      "bytes": 2292,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet7.png",
+      "file": "images/bommmmm-sheet7.png",
+      "bytes": 103657,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet1.png",
+      "file": "images/bommmmm-sheet1.png",
+      "bytes": 1371,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet9.png",
+      "file": "images/bommmmm-sheet9.png",
+      "bytes": 114088,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet9.png",
+      "file": "images/game_bg-sheet9.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet0.png",
+      "file": "images/bommmmm-sheet0.png",
+      "bytes": 628,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet10.png",
+      "file": "images/game_bg-sheet10.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet8.png",
+      "file": "images/game_bg-sheet8.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet7.png",
+      "file": "images/game_bg-sheet7.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet5.png",
+      "file": "images/game_bg-sheet5.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet4.png",
+      "file": "images/game_bg-sheet4.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet2.png",
+      "file": "images/game_bg-sheet2.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet18.png",
+      "file": "images/bommmmm-sheet18.png",
+      "bytes": 83994,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet6.png",
+      "file": "images/game_bg-sheet6.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet3.png",
+      "file": "images/game_bg-sheet3.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet8.png",
+      "file": "images/bottle-sheet8.png",
+      "bytes": 5311,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet0.png",
+      "file": "images/game_bg-sheet0.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet0.png",
+      "file": "images/shared-0-sheet0.png",
+      "bytes": 424721,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet7.png",
+      "file": "images/bottle-sheet7.png",
+      "bytes": 7226,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet34.png",
+      "file": "images/shared-1-sheet34.png",
+      "bytes": 115,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet33.png",
+      "file": "images/shared-1-sheet33.png",
+      "bytes": 3333,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet36.png",
+      "file": "images/shared-1-sheet36.png",
+      "bytes": 2782,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet29.png",
+      "file": "images/shared-0-sheet29.png",
+      "bytes": 14469,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet10.png",
+      "file": "images/bommmmm-sheet10.png",
+      "bytes": 115743,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet4.png",
+      "file": "images/bommmmm-sheet4.png",
+      "bytes": 31532,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet3.png",
+      "file": "images/shared-0-sheet3.png",
+      "bytes": 578576,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/game_bg-sheet1.png",
+      "file": "images/game_bg-sheet1.png",
+      "bytes": 139,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/buttoon2.webm",
+      "file": "media/buttoon2.webm",
+      "bytes": 1713,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/boxwin.webm",
+      "file": "media/boxwin.webm",
+      "bytes": 280513,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/buttonnn.m4a",
+      "file": "media/buttonnn.m4a",
+      "bytes": 11987,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mp4a-latm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/twpsound.m4a",
+      "file": "media/twpsound.m4a",
+      "bytes": 34364,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mp4a-latm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/bot2.webm",
+      "file": "media/bot2.webm",
+      "bytes": 19022,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/game%20of%20drums.mp3",
+      "file": "media/game%20of%20drums.mp3",
+      "bytes": 5747024,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/startbell.webm",
+      "file": "media/startbell.webm",
+      "bytes": 138135,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "video/webm"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/media/shoot6.mp3",
+      "file": "media/shoot6.mp3",
+      "bytes": 3528,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "audio/mpeg"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet19.png",
+      "file": "images/shared-1-sheet19.png",
+      "bytes": 15048,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-0-sheet30.png",
+      "file": "images/shared-0-sheet30.png",
+      "bytes": 1762,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet21.png",
+      "file": "images/shared-1-sheet21.png",
+      "bytes": 82311,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/shared-1-sheet32.png",
+      "file": "images/shared-1-sheet32.png",
+      "bytes": 7406,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bottle-sheet2.png",
+      "file": "images/bottle-sheet2.png",
+      "bytes": 9674,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/images/bommmmm-sheet8.png",
+      "file": "images/bommmmm-sheet8.png",
+      "bytes": 110431,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsImRvbW4iOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsInJmcnIiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tL3J2dkFTTWlNLzJlYjQ3ZDMzNmZiNDQ4OTNhYTlmZDMwYjg4MTA3ZDAyL2luZGV4Lmh0bWwiLCJsdGhyIjoxNywiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJ0cmFjIjpmYWxzZSwid2hsYiI6ZmFsc2UsInBsYXQiOiIiLCJ0cGN0IjoyLCJhcmdzIjp7Im1lc3NhZ2UiOiJsb2FkaW5nIn0sInR0bGUiOiJEcnVua2VuIFRhYmxlIFdhcnMgZ2QiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJDaHJvbWUiLCJicm1qIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjp0cnVlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOnRydWUsImNtcGUiOmZhbHNlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20ifV0%3D&ts=1784715204743",
+      "file": "_external/msgrt.gamedistribution.com/collect",
+      "bytes": 2,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://game.api.gamedistribution.com/game/v4/get/%202eb47d336fb44893aa9fd30b88107d02/?domain=html5.gamedistribution.com&v=1.43.58&engn=Windows&localTime=17",
+      "file": "_external/game.api.gamedistribution.com/game/v4/get/%202eb47d336fb44893aa9fd30b88107d02/index.html",
+      "bytes": 69,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "file": "_external/pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "bytes": 38792,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwcyUzQSUyRiUyRmh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tJTJGcnZ2QVNNaU0lMkYyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJkcHRoIjowLCJhcmdzIjp7Im1kNSI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInBpZCI6MCwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMmViNDdkMzM2ZmI0NDg5M2FhOWZkMzBiODgxMDdkMDIvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMmViNDdkMzM2ZmI0NDg5M2FhOWZkMzBiODgxMDdkMDIvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJDaHJvbWUiLCJicnZzIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "file": "_external/tag.atom.gamedistribution.com/v1/dmp",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=2114374347.1784715206&gtm=45je67k1v9165161826za200zd9165161826&rcb=4&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~119773332~119896803&z=1137915519",
+      "file": "_external/www.google.com.vn/ads/ga-audiences",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=html5.gamedistribution.com",
+      "file": "_external/hb.improvedigital.com/pbw/headerlift.min.js",
+      "bytes": 204786,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "file": "_external/hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "bytes": 615045,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://pub.headerlift.com/opphb?page_url=html5.gamedistribution.com&page_type=gd&page_width=1280&aid=%202eb47d336fb44893aa9fd30b88107d02",
+      "file": "_external/pub.headerlift.com/opphb",
+      "bytes": 6753,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20260721&st=env&sjk=3129952315570542",
+      "file": "_external/ep1.adtrafficquality.google/getconfig/sodar",
+      "bytes": 17677,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "bytes": 13413,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "file": "_external/ep2.adtrafficquality.google/sodar/sodar2.js",
+      "bytes": 21546,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "file": "_external/ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "bytes": 14627,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "file": "_external/www.google.com/recaptcha/api2/aframe",
+      "bytes": 829,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "file": "_external/cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "bytes": 106043,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://s0.2mdn.net/instream/video/client.js",
+      "file": "_external/s0.2mdn.net/instream/video/client.js",
+      "bytes": 44701,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20260722",
+      "file": "_external/cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json",
+      "bytes": 1541,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://hb.360yield.com/privacy-sandbox/topics.html?bidder=improvedigital",
+      "file": "_external/hb.360yield.com/privacy-sandbox/topics.html",
+      "bytes": 840,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/rid?ttd_pid=cw39kyg&fmt=json",
+      "file": "_external/match.adsrvr.org/track/rid",
+      "bytes": 109,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://id.crwdcntrl.net/id",
+      "file": "_external/id.crwdcntrl.net/id",
+      "bytes": 75,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/i/22110840991?ers=3",
+      "file": "_external/fundingchoicesmessages.google.com/i/22110840991",
+      "bytes": 225390,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxU-diRBPUj_D0LAusCzbUcDTUJ3fOvnWBjc6pvQaUSxRUYi34h9t3XefTfwWkiLK_MtxJf7_ezclEP7TgDVxYSDx_tDaay2JNf-zMJwt6mTLAR4SP6W-UwcURFGKavDcrj8UiaJJQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1MjA3LDkxODAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbS9ydnZBU01pTS8yZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMi9pbmRleC5odG1sIixudWxsLFtbOCwiMTVwR2pjaXpLZlEiXSxbOSwiZW4tVVMiXSxbMTgsIltbW251bGwsMzU1M11dXSJdLFszNSwiMTc4NDcxNTIwNyJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxU-diRBPUj_D0LAusCzbUcDTUJ3fOvnWBjc6pvQaUSxRUYi34h9t3XefTfwWkiLK_MtxJf7_ezclEP7TgDVxYSDx_tDaay2JNf-zMJwt6mTLAR4SP6W-UwcURFGKavDcrj8UiaJJQ==",
+      "bytes": 1975,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "file": "_external/connectid.analytics.yahoo.com/connectId-gpt.js",
+      "bytes": 8729,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://cdn.fusion-platform.com/static/js/novatiq_gam_integration.min.js",
+      "file": "_external/cdn.fusion-platform.com/static/js/novatiq_gam_integration.min.js",
+      "bytes": 3660,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://dmp.im-apps.net/secure-signal/provider.js",
+      "file": "_external/dmp.im-apps.net/secure-signal/provider.js",
+      "bytes": 4890,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://oa.openxcdn.net/esp.js",
+      "file": "_external/oa.openxcdn.net/esp.js",
+      "bytes": 32437,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxUy7uYazQFT2AEIsRqS_S3wpd0eGWQQ0I4JlUToTAHLOs51CuWsBPTulcPYlBVc7Ct2MyF_98JOEIL2g8gWT3myk70ZzPsEiG2RkNVO79LYHghvK3ewAJbHL2HizkfBI7epjcMETw==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1MjA3LDk3OTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMmViNDdkMzM2ZmI0NDg5M2FhOWZkMzBiODgxMDdkMDIvaW5kZXguaHRtbCIsbnVsbCxbWzgsIjE1cEdqY2l6S2ZRIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDM1NTNdXV0iXSxbMzUsIjE3ODQ3MTUyMDciXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxUy7uYazQFT2AEIsRqS_S3wpd0eGWQQ0I4JlUToTAHLOs51CuWsBPTulcPYlBVc7Ct2MyF_98JOEIL2g8gWT3myk70ZzPsEiG2RkNVO79LYHghvK3ewAJbHL2HizkfBI7epjcMETw==",
+      "bytes": 9212,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.mgaru.dev/static/myGaruStandalone.js",
+      "file": "_external/cdn.mgaru.dev/static/myGaruStandalone.js",
+      "bytes": 2733,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://mug.criteo.com/sid?cpp=Hd_RW3xSNi9YK2xrckxMUkNPYlFBcHpqaFVIeGVTSmZFbnU1UEpIaUlYRGRxL2xlZFhUb1E1MmkxM2dVZld5cU0rVXpXNUlkZU43TmFKVG1tYmNZM05nUzY2eGF5aXYwNEtWNDc3YUJGNS9CcExrdEpyL1ZaZVdFc2ZkV0loVHd1Q0s1b2lVMVQ1SWp0VERMZDlyQkpYVVZ1QWs4OEdPc2pPYkZjVHJ5UlBmeGsrcHRlUndkbWZQcmlzTndDdlMybWgzY3dkWUdnSThhWW96L215OWVJbldSS2ZPRncwSHpnOFBvNFRsT3I5TTVmZStmV2Y5a1VVbG85ZXZOcUFKemRURUtoa29zVm5LdUhRcGo1aDI5UEhLeGxSZz09fA&cppv=2",
+      "file": "_external/mug.criteo.com/sid",
+      "bytes": 399,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "file": "_external/static.criteo.net/js/ld/publishertag.ids.js",
+      "bytes": 42696,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://sync6.im-apps.net/9001/pid?ref=null&page=https://html5.gamedistribution.com/rvvASMiM/2eb47d336fb44893aa9fd30b88107d02/index.html",
+      "file": "_external/sync6.im-apps.net/9001/pid",
+      "bytes": 20,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "file": "_external/invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "bytes": 2729,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=html5.gamedistribution.com&gdpr=0&gdpr_consent=",
+      "file": "_external/gum.criteo.com/syncframe",
+      "bytes": 12662,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://rr3---sn-42u-i5olr.googlevideo.com/videoplayback?expire=1784744008&ei=yJdgat64M8qnvcAP-N-QiAY&ip=2405:4802:677:8530:b9e1:b3b1:742a:6744&id=6c69f77d77b3ea2f&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&cps=603&met=1784715208,&mh=Vc&mm=31&mn=sn-42u-i5olr&ms=au&mv=m&mvi=3&pl=44&rms=au,au&susc=gvp&acao=yes&ctier=L&mime=video/mp4&rqh=1&dur=15.116&lmt=1784701393399454&mt=1784714943&cpn=rZ_urMlgNnXNUuOG&txp=5318224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,rqh,dur,lmt&sig=AE0s2JYwRAIgVUhFiyUq4_jDdIHuJ9sHQ8zmltIzlHaD20OlRJj79noCICi97Qk8LlAt-XI2OZlgSwH4xCQ0vMGWmstrnJpvpIh9&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhALl9m_p_yhnEE9lm5t5qUf8BC7JaI-Ii-CU2GJSoChkMAiEAohXX6UNhPI67yhjlqd5OZu8WU4CheeN59Pit8zqJNV4=",
+      "file": "_external/rr3---sn-42u-i5olr.googlevideo.com/videoplayback",
+      "bytes": 2234833,
+      "status": 206,
+      "type": "media",
+      "contentType": "video/mp4"
+    },
+    {
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "file": "_external/lb.eu-1-id5-sync.com/lb/v1",
+      "bytes": 45,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json;charset=UTF-8"
+    },
+    {
+      "url": "https://ident.mygaru.com/v2/id",
+      "file": "_external/ident.mygaru.com/v2/id",
+      "bytes": 206,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxVE2QJGFYwVjv3UgSCoevDtntl5mnnpjGeiUGDgh6tKOVFxJXC-9R6KaY5e2AwlQrCuZ0BX_NtgPPMEbs83Afdk-aAj3UwzkPan_lGUvh1t2D57I_4ZcC8beNFsORySjwX_C7GWkguoha-P_JjlHJUAJgKFrfMcfmmTseK3eM2h9UgacMXQtnP9LDry/_/ads_detect.&showad=/adblock_detect./ad_render_/Ad/Index?",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxVE2QJGFYwVjv3UgSCoevDtntl5mnnpjGeiUGDgh6tKOVFxJXC-9R6KaY5e2AwlQrCuZ0BX_NtgPPMEbs83Afdk-aAj3UwzkPan_lGUvh1t2D57I_4ZcC8beNFsORySjwX_C7GWkguoha-P_JjlHJUAJgKFrfMcfmmTseK3eM2h9UgacMXQtnP9LDry/_/ads_detect.&showad=/adblock_detect./ad_render_/Ad/Index",
+      "bytes": 54,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxW1mXwXTRz1CXjb8zDdvNyeW0Xqs9XPHUxiAjaJ_Z8QUt7qtTuUambMPk4ZVrEugYSrg2yjFZjd8ju-Kkb44Vck3IoqTEo_S_6jDNYMcatZ5nJ1sqbqmIZo-4sAPeMHRA7Evh-OiA==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzg0NzE1MjA4LDc1MjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly9odG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbS9ydnZBU01pTS8yZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMi9pbmRleC5odG1sIixudWxsLFtbOCwiMTVwR2pjaXpLZlEiXSxbOSwiZW4tVVMiXSxbMTgsIltbW251bGwsMzU1M11dXSJdLFszNSwiMTc4NDcxNTIwNyJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+      "file": "_external/fundingchoicesmessages.google.com/f/AGSKWxW1mXwXTRz1CXjb8zDdvNyeW0Xqs9XPHUxiAjaJ_Z8QUt7qtTuUambMPk4ZVrEugYSrg2yjFZjd8ju-Kkb44Vck3IoqTEo_S_6jDNYMcatZ5nJ1sqbqmIZo-4sAPeMHRA7Evh-OiA==",
+      "bytes": 3250,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=156946",
+      "file": "_external/ads.pubmatic.com/AdServer/js/user_sync.html",
+      "bytes": 22264,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://acdn.adnxs.com/dmp/async_usersync.html",
+      "file": "_external/acdn.adnxs.com/dmp/async_usersync.html",
+      "bytes": 53044,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://onetag-sys.com/usync/?cb=1784715207722",
+      "file": "_external/onetag-sys.com/usync/index.html",
+      "bytes": 2504,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://ut.pubmatic.com/geo?pubid=156946",
+      "file": "_external/ut.pubmatic.com/geo",
+      "bytes": 22,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=48426565&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=0&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "file": "_external/image6.pubmatic.com/AdServer/PugMaster",
+      "bytes": 2339,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce?%2Fasync_usersync%3Fcbfn%3DqueuePixels",
+      "file": "_external/ib.adnxs.com/bounce",
+      "bytes": 0,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://c1.adform.net/serving/cookie/match?CC=1&party=14&cid=F1A1C27C-6049-4F45-A727-99055B6C3740&gdpr=0&gdpr_consent=",
+      "file": "_external/c1.adform.net/serving/cookie/match",
+      "bytes": 35,
+      "status": 200,
+      "type": "document",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=19566&dpuuid=F1A1C27C-6049-4F45-A727-99055B6C3740",
+      "file": "_external/dpm.demdex.net/demconf.jpg",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=CAESEC6DzC6WbemDIb2o-Agg2eE&google_cver=1",
+      "file": "_external/image2.pubmatic.com/AdServer/Pug",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif; charset=utf-8"
+    },
+    {
+      "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=a9045614-e37f-4a2d-95f3-223bda4ce1e1&gdpr=0&gdpr_consent=",
+      "file": "_external/simage2.pubmatic.com/AdServer/Pug",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif; charset=utf-8"
+    },
+    {
+      "url": "https://sg.semasio.net/sync/1/15927723?&gdpr=0&gdpr_consent=&sInitiator=external&sExtCookieId=F1A1C27C-6049-4F45-A727-99055B6C3740",
+      "file": "_external/sg.semasio.net/sync/1/15927723",
+      "bytes": 0,
+      "status": 200,
+      "type": "image",
+      "contentType": ""
+    },
+    {
+      "url": "https://image4.pubmatic.com/AdServer/SPug?partnerID=156078&xid=y-DqaOw41E2uU4T50.swHBzrOchELxzbE-~A&gdpr=0&us_privacy=",
+      "file": "_external/image4.pubmatic.com/AdServer/SPug",
+      "bytes": 0,
+      "status": 200,
+      "type": "document",
+      "contentType": ""
+    },
+    {
+      "url": "https://pippio.com/api/sync?pid=5324&it=1&iv=02f91bd66116aa7d55bc046fa7f9c5752606f0ff222f1a373b9861e91f13cac5791426b5417dce21&_=2",
+      "file": "_external/pippio.com/api/sync",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=19566&dpuuid=6F2EE465-5DF0-455E-B6E3-F83040C5E9A7",
+      "file": "_external/dpm.demdex.net/ibs_dpid=19566&dpuuid=6F2EE465-5DF0-455E-B6E3-F83040C5E9A7",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://idsync.rlcdn.com/396846.gif?served_by=evergreen&partner_uid=9a23e385-6bbd-4954-b344-c6aad9894115",
+      "file": "_external/idsync.rlcdn.com/396846.gif",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://simage4.pubmatic.com/AdServer/SPug?partnerID=156946&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "file": "_external/simage4.pubmatic.com/AdServer/SPug",
+      "bytes": 0,
+      "status": 200,
+      "type": "script",
+      "contentType": ""
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T10:43:57.119Z",
+    "navigationError": null,
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "The Cross-Origin-Opener-Policy header has been ignored, because the URL's origin was untrustworthy. It was defined either in the final response or a redirect. Please deliver the response using the HTTPS protocol. You can also use the 'localhost' origin instead. See https://www.w3.org/TR/powerful-features/#potentially-trustworthy-origin and https://html.spec.whatwg.org/#the-cross-origin-opener-policy-header."
+    ],
+    "pageErrors": [
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag.",
+      "Failed to read the 'serviceWorker' property from 'Navigator': Service worker is disabled because the context is sandboxed and lacks the 'allow-same-origin' flag."
+    ],
+    "failedAssets": [
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjAxNjklMkZ0dWctdGhlLXRhYmxlJTJGaW5kZXguaHRtbCIsInJmciI6IiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkcHRoIjowLCJhcmdzIjp7Im1kNSI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInBpZCI6MCwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjYwMTY5In19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDE2OSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjYwMTY5L3R1Zy10aGUtdGFibGUvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJFZGdlIiwiYnJ2cyI6IjE1MC4wLjAuMCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2cyI6IjEwIiwidyI6MTI4MCwiaCI6NzA0fX0%3D :: net::ERR_ABORTED",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784717025834&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1641706484&_eu=AAAAAGAC&are=1&cid=1945937216.1784717026&ec_mode=a&frm=0&pscdl=noapi&rcb=8&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616986~115938466~115938469~118395334~118897920~118897930~119773331~119896802&sid=1784717025&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Ftug-the-table%2Findex.html&dt=Drunken%20Table%20Wars%20gd&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A60169&ep.parent_domain=127.0.0.1%3A60169&ep.parent_url=http%253A%252F%252F127.0.0.1%253A60169%252Ftug-the-table%252Findex.html&ep.game_id=%202eb47d336fb44893aa9fd30b88107d02&ep.game_title=&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=1916 :: net::ERR_ABORTED",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784717025&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A60169%2Ftug-the-table%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784717025717&bpp=3&bdt=1765&idt=195&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=244734666653&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=95396139%2C95396666%2C42533294&oid=2&pvsid=5698821744642196&tmod=1013491703&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=404x648_l%7C404x648_r&bz=1&pgls=CAA.&ifi=1&uci=a!1&fsb=1&dtd=214 :: HTTP 403",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6InNnLmFkLnByLnJlcXVlc3RlZCIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwMTY5IiwiZHB0aCI6MCwiYXJncyI6eyJtZDUiOiIgMmViNDdkMzM2ZmI0NDg5M2FhOWZkMzBiODgxMDdkMDIiLCJwaWQiOjAsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwMTY5L3R1Zy10aGUtdGFibGUvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDE2OSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjAxNjkiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDE2OS90dWctdGhlLXRhYmxlL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX19LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19 :: net::ERR_ABORTED",
+      "https://um.simpli.fi/pubmatic?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODA2JnRsPTUxODQwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid= :: net::ERR_CONNECTION_REFUSED"
+    ],
+    "remoteRequests": [
+      "http://html5.api.gamedistribution.com/main.min.js",
+      "https://html5.api.gamedistribution.com/main.min.js",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoibG9hZGluZyJ9LCJ0dGxlIjoiRHJ1bmtlbiBUYWJsZSBXYXJzIGdkIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784717024738",
+      "https://game.api.gamedistribution.com/game/v4/get/%202eb47d336fb44893aa9fd30b88107d02/?domain=127.0.0.1:60169&v=1.43.58&engn=Windows&localTime=17",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MiwiYXJncyI6eyJtZXNzYWdlIjoibG9hZGluZyJ9LCJ0dGxlIjoiRHJ1bmtlbiBUYWJsZSBXYXJzIGdkIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784717024741",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.err&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoiNy41OiBqc29uIGVycm9yIn0sInR0bGUiOiJEcnVua2VuIFRhYmxlIFdhcnMgZ2QiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784717025543",
+      "https://pm.azerioncircle.com/p/locus/",
+      "https://www.googletagmanager.com/gtag/js?id=G-PLRTBHGSEL&l=gdSDKDataLayer",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjAxNjklMkZ0dWctdGhlLXRhYmxlJTJGaW5kZXguaHRtbCIsInJmciI6IiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkcHRoIjowLCJhcmdzIjp7Im1kNSI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInBpZCI6MCwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjYwMTY5In19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDE2OSIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjYwMTY5L3R1Zy10aGUtdGFibGUvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJFZGdlIiwiYnJ2cyI6IjE1MC4wLjAuMCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2cyI6IjEwIiwidyI6MTI4MCwiaCI6NzA0fX0%3D",
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202607160101/show_ads_impl_fy2021.js",
+      "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=127.0.0.1%3A60169",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1%3A60169&page_type=gd&page_width=1280&aid=%202eb47d336fb44893aa9fd30b88107d02",
+      "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "https://pub.headerlift.com/opphb?page_url=127.0.0.1:60169&page_type=gd&page_width=1280&aid=%202eb47d336fb44893aa9fd30b88107d02",
+      "https://analytics.google.com/g/collect?v=2&tid=G-PLRTBHGSEL&gtm=45je67k1v9165161826za200zd9165161826&_p=1784717025834&em=tv.1~ec.e3&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=1641706484&_eu=AAAAAGAC&are=1&cid=1945937216.1784717026&ec_mode=a&frm=0&pscdl=noapi&rcb=8&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.129%7CMicrosoft%2520Edge%3B150.0.4078.83&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616986~115938466~115938469~118395334~118897920~118897930~119773331~119896802&sid=1784717025&sct=1&seg=0&dl=http%3A%2F%2F127.0.0.1%2Ftug-the-table%2Findex.html&dt=Drunken%20Table%20Wars%20gd&_tu=QA&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.provider=gd-sdk&epn.page_depth=0&ep.partner_domain_from=fallback&ep.top_domain_from=self-top&ep.top_domain=127.0.0.1%3A60169&ep.parent_domain=127.0.0.1%3A60169&ep.parent_url=http%253A%252F%252F127.0.0.1%253A60169%252Ftug-the-table%252Findex.html&ep.game_id=%202eb47d336fb44893aa9fd30b88107d02&ep.game_title=&ep.cmp=cmpNotFound&ep.gdpr=cmpNotFound&ep.google_ads=unknown&tfd=1916",
+      "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-PLRTBHGSEL&cid=1945937216.1784717026&gtm=45je67k1v9165161826za200zd9165161826&rcb=8&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938469~118395334~118897920~118897930~119773331~119896802",
+      "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=1945937216.1784717026&gtm=45je67k1v9165161826za200zd9165161826&rcb=8&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938469~118395334~118897920~118897930~119773331~119896802&z=221282410",
+      "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.err&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MiwiYXJncyI6eyJtZXNzYWdlIjoiNy41OiBqc29uIGVycm9yIn0sInR0bGUiOiJEcnVua2VuIFRhYmxlIFdhcnMgZ2QiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784717025908",
+      "https://googleads.g.doubleclick.net/pagead/html/r20260721/r20190131/zrt_lookup_fy2021.html",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2316275586951220&output=html&adk=1812271804&adf=3025194257&abgtt=1&lmt=1784717025&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=http%3A%2F%2F127.0.0.1%3A60169%2Ftug-the-table%2Findex.html&pra=5&aiof=10&asro=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTUwLjAuNDA3OC44MyIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q7QT1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTUwLjAuNzg3MS4xMjkiXSxbIk1pY3Jvc29mdCBFZGdlIiwiMTUwLjAuNDA3OC44MyJdXSwwXQ..&dt=1784717025717&bpp=3&bdt=1765&idt=195&shv=r20260721&mjsv=m202607160101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=244734666653&frm=20&pv=2&u_tz=420&u_his=2&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=24&u_sd=1&dmc=32&adx=-12245933&ady=-12245933&biw=1280&bih=720&scr_x=0&scr_y=0&eid=95396139%2C95396666%2C42533294&oid=2&pvsid=5698821744642196&tmod=1013491703&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C1280%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=404x648_l%7C404x648_r&bz=1&pgls=CAA.&ifi=1&uci=a!1&fsb=1&dtd=214",
+      "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20260721&st=env&sjk=5698821744642196",
+      "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "http://imasdk.googleapis.com/js/core/bridge3.777.0_en.html",
+      "https://s0.2mdn.net/instream/video/client.js",
+      "https://pagead2.googlesyndication.com/omsdk/releases/live/omweb-v1.js",
+      "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=255&li=gda_r20260721&jk=5698821744642196&rc=",
+      "https://pagead2.googlesyndication.com/bg/pxXH9SCqr7lZpm8XdTtCUYpBip37b-GM2-zZfohu92k.js",
+      "https://ep2.adtrafficquality.google/generate_204?_FQw3Q",
+      "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=255&t=2&li=gda_r20260721&jk=5698821744642196&bg=!NjWlNVfNAAaHuSoKp7k7AEcBe5WfOHRFU-AnLDaY3ZIbhYDzb9irk6jTULuvJUkQkwykXspTNNcetpTaRI5nSOfx3BUYVXoeY_f7yuOh2lgnWUEJksYwlgIAAABhUgAAAANoAQd-ADaY0XuMKqjD9n3-DUoHAOIBGifXw2bQFqwnTvCkfZ-40Bpklkp_PoQ15piXU7v-7_Uf_LtUhFuZAn6DSdqJY2SXA6jJuBAsSf-adb92fxUxgQMtLcgS-mPKS2GhMXQs_4IP69Gtfay2FoZMYqRteGgCyHStLzfG4sPU-bmcIegcEoefXzY7j2n6WaXZqKHQLJrGIjTgz5EQ6etD2I4z5fEjM9_uFWHllMnrOXM-C3j2dQ4haKLPPfCQ_udQ2jkX91O3gJAJck9wrsx-yHxgRRbQpOTZQJWUUOk7SMa4nep39ClZOrP7wsaCIVbh8ZhEQHYJb-0vza7K002h53eyLBVWJj-F5ez5ZNk8vHPkt_FuohHNcII3lCULFs-zDEKrAv9ixFwXIo1GcboAQDLa9ot1tQo2ptpGFU0_9SNMFQwzp8sbkujT8dYF77EYeGkITdlJAoMNGm8qKcEgRy_ozhin7f0lm4JqJubUAO9wx5xhBszIbjv1Gcqwm_YgOD1F2QbRUA6ZW2UeFQi0h0Y_QfZC4iWVELoYPeSSNbgo_HNienaSJ1fdkjAa43UCAPwDMkgfRrkoY0rZgDhM2TuoLik4NBfAP6D6ZWWmz6_cfgVzl0BE8rUVleLkNK3X4rHa_HMEhLTL23NVgzn1MA1xXttXotemhKHS6AKxtv77lEqUoDP_zK9IBloXSiTq4keDc5ULcLcKhtthOeRD1aEhiP9SRXIi6j4rROfIF0DINTeZH8Zxt9wII7OoN9r8y_I6XCthjBJFzE4quF0bTKGjzIRxMYzWO01-Y_rJGlzD8GqNrV2bC-9JDLjW4VDbAMy5HxhE8IKE3rvvPiemhfxMmGnbekTgudoC8-FlDfgOlmcEeBD1NaTe1eWkyfS_fOmkz3jUCYFPuXOpWMJAsDpuUlzee3OALUTahg",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.dp.na&ar=W3siZ21pZCI6IjJlYjQ3ZDMzNmZiNDQ4OTNhYTlmZDMwYjg4MTA3ZDAyIiwidGRtbiI6IjEyNy4wLjAuMTo2MDE2OSIsImRvbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxNywiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoicnVsZSJ9LCJ0dGxlIjoiRHJ1bmtlbiBUYWJsZSBXYXJzIGdkIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784717027304",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20260722",
+      "https://gum.criteo.com/sid/json?origin=prebid&topUrl=http%3A%2F%2F127.0.0.1%3A60169%2F&domain=127.0.0.1&cw=1&lsw=1",
+      "https://id5-sync.com/api/config/prebid",
+      "https://id.crwdcntrl.net/id",
+      "https://match.adsrvr.org/track/rid?ttd_pid=cw39kyg&fmt=json",
+      "https://hb.360yield.com/privacy-sandbox/topics.html?bidder=improvedigital",
+      "https://ib.adnxs.com/ut/v3/prebid",
+      "https://prg.smartadserver.com/prebid/v1",
+      "https://ad.360yield.com/545/pb?gzip=1",
+      "https://hbopenbid.pubmatic.com/translator?source=prebid-client&gzip=1",
+      "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607170101/pubads_impl.js?cb=31099818",
+      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=127.0.0.1%3A60169",
+      "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202607210101/gpt",
+      "https://mug.criteo.com/sid?cpp=cA3OQnxENDQ5bTMvNnNEeTJsRGIzUDltTlErTEN5UTQwaU1qUnp1L3M5WkVOd3JkeDFDY1NZODc4dG84aUhYZUZMN0NJOE9uNzZOWE9xbGVzVXc2TWZDRU85TWhrdTc5U0crbnRkMGE4U2QwZ29OZGhqOXpOYjRHTUdEcld4RmZHWUtIVnJINkttNEhnamovQ2MyZHRBVUhBbllwZXQ1ckxmRld6cVcveGdYQUQrdzBkTTV2K0swSUpwdEk0cVVzeEZ3T0Z5Mkpzdzd4QkhpYVNYS1VMMy9CU1ZYUitCMzBZRWY0ZnNDWXZhSFBoYzd2YlI4MmRyUEo3NU5wSnZiUTdEZXRRfA&cppv=2",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.bfa&ar=W3siZ21pZCI6IjJlYjQ3ZDMzNmZiNDQ4OTNhYTlmZDMwYjg4MTA3ZDAyIiwidGRtbiI6IjEyNy4wLjAuMTo2MDE2OSIsImRvbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxNywiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoxfSwidHRsZSI6IkRydW5rZW4gVGFibGUgV2FycyBnZCIsInNpemUiOiIxMjgwIHggNzA0IiwiYnJubSI6IkVkZ2UiLCJicm1qIjoiMTUwIiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjpmYWxzZSwiaW1ndSI6ZmFsc2UsImllZ3UiOmZhbHNlLCJpdGd1IjpmYWxzZSwiY21wZSI6ZmFsc2UsImhvc3QiOiIxMjcuMC4wLjEifV0%3D&ts=1784717027721",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.adctx&ar=W3siZ21pZCI6IjJlYjQ3ZDMzNmZiNDQ4OTNhYTlmZDMwYjg4MTA3ZDAyIiwidGRtbiI6IjEyNy4wLjAuMTo2MDE2OSIsImRvbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxNywiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6e30sInR0bGUiOiJEcnVua2VuIFRhYmxlIFdhcnMgZ2QiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784717027723",
+      "https://securepubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast4&unviewed_position_start=1&correlator=2560414822892731&sz=640x480&url=null&iu=%2F1015413%2FTNL_NS-18101700058%2FTNL_T-210119116699&description_url=http%253A%252F%252F127.0.0.1%253A60169%252Ftug-the-table%252Findex.html&max_ad_duration=300000&cust_params=hb_uuid%3Dundefined%26hb_cache_id%3Dundefined%26tnl_paid%3D14697%26tnl_pid%3DP-21011913752%26tnl_system%3D1%26tid%3DTNL_T-210119116699%26tnl_ad_type%3Dvideo_image%26tnl_asset_id%3D%25202eb47d336fb44893aa9fd30b88107d02%26tnl_ad_pos%3Dpreroll%26nsid%3DTNL_NS-18101700058%26tnl_pt%3D22%26tnl_wog%3D0%26gdGameId%3D%25202eb47d336fb44893aa9fd30b88107d02%26tnl_content_category%3D%26adaptor_order%3D0%26pbct%3D1%26tnl_test%3Da%26fp%3D0.01%26fpt%3D0%26bfa%3D1%26adsense%3D0&plcmt=1&vpmute=1&npa=0&vpa=auto&sdkv=h.3.777.0&osd=2&frm=0&vis=1&sdr=1&hl=en&afvsz=200x200%2C250x250%2C300x250%2C336x280%2C450x50%2C468x60%2C480x70%2C728x90&is_amp=0&u_so=l&ctv=0&sdki=100000445&ptt=20&vo=0&adk=3264810996&sdk_apis=2%2C7%2C8&omid_p=Google1%2Fh.3.777.0&sid=98E7CA71-B14B-47D0-B8B8-CB9DAD706C5C&eid=95322027%2C95331589%2C95332046&dlt=1784717023952&idt=2695&dt=1784717027741&cookie_enabled=1&cdm=127.0.0.1&eoidce=1&pvsid=5698821744642196&scor=3207833489820895&ged=ve4_td4_tt2_pd4_la4000_er0.0.154.300_vi0.0.720.1280_vp100_eb24171",
+      "https://csi.gstatic.com/csi?v=2&s=ima&puid=1~mrvyfr5w&c=244734666653&slotId=122367333326&eee=missing-element&bi=missing-id&vast_v=4.0&lima_p_ich=0&lima_p_icu=0",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.ad.error&ar=W3siZ21pZCI6IjJlYjQ3ZDMzNmZiNDQ4OTNhYTlmZDMwYjg4MTA3ZDAyIiwidGRtbiI6IjEyNy4wLjAuMTo2MDE2OSIsImRvbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJyZnJyIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJsdGhyIjoxNywiZHB0aCI6MCwidmVycyI6IjEuNDMuNTgiLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoiMzAzIn0sInR0bGUiOiJEcnVua2VuIFRhYmxlIFdhcnMgZ2QiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784717027898",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6InNnLmFkLnByLnJlcXVlc3RlZCIsImN0IjowLCJ2cnMiOiIxLjQzLjU4IiwidXJsIjoiaHR0cCUzQSUyRiUyRjEyNy4wLjAuMSUzQTYwMTY5JTJGdHVnLXRoZS10YWJsZSUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiMTI3LjAuMC4xOjYwMTY5IiwiZHB0aCI6MCwiYXJncyI6eyJtZDUiOiIgMmViNDdkMzM2ZmI0NDg5M2FhOWZkMzBiODgxMDdkMDIiLCJwaWQiOjAsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYwMTY5L3R1Zy10aGUtdGFibGUvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6IjEyNy4wLjAuMTo2MDE2OSJ9fSwicGFydG5lciI6eyJkb21haW4iOnsidmFsdWUiOiIxMjcuMC4wLjE6NjAxNjkiLCJmcm9tIjoiZmFsbGJhY2sifSwidXJsIjp7InZhbHVlIjoiaHR0cDovLzEyNy4wLjAuMTo2MDE2OS90dWctdGhlLXRhYmxlL2luZGV4Lmh0bWwiLCJmcm9tIjoic2VsZi10b3AifX19LCJ1YSI6eyJicm5tIjoiRWRnZSIsImJydnMiOiIxNTAuMC4wLjAiLCJvc25tIjoiV2luZG93cyIsIm9zdnMiOiIxMCIsInciOjEyODAsImgiOjcwNH19",
+      "https://lb.eu-1-id5-sync.com/lb/v1",
+      "https://id5-sync.com/g/v2/396.json",
+      "https://acdn.adnxs.com/dmp/async_usersync.html",
+      "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=156946",
+      "https://ut.pubmatic.com/geo?pubid=156946",
+      "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=74557889&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=0&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://ib.adnxs.com/async_usersync?cbfn=queuePixels",
+      "https://c1.adform.net/serving/cookie/match?party=14&cid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gdpr=0&gdpr_consent=",
+      "https://um.simpli.fi/pubmatic?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODA2JnRsPTUxODQwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://sync.mathtag.com/sync/img?mt_exid=3&gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fsimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD0xMjk2MDA%3D%3D%26piggybackCookie%3Duid%3A%5BMM_UUID%5D&us_privacy=&gpp=&gpp_sid=",
+      "https://ups.analytics.yahoo.com/ups/58917/cms?uid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gpp=&gpp_sid=&us_privacy=&gdpr=0&gdpr_consent=",
+      "https://ad.turn.com/r/cs?pid=1&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://ups.analytics.yahoo.com/ups/58292/sync?_origin=1&uid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&redir=true&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://dpm.demdex.net/ibs:dpid=19566&dpuuid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://idsync.rlcdn.com/420486.gif?partner_uid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://uipglob.semasio.net/pubmatic/1/info?sType=sync&sExtCookieId=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&sInitiator=external&gdpr=0&gdpr_consent=",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_hm=REM0MkQzRUItMEU3QS00NjVGLUJDRjMtODA0MkMxOURFNTQ1&gdpr=0&gdpr_consent=&google_cm",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pmeb&google_sc=1&google_hm=3ELT6w56Rl-884BCwZ3lRQ%3D%3D&gdpr=0&gdpr_consent=&google_cm",
+      "https://cm.g.doubleclick.net/pixel?google_nid=pubmatic&google_cm&google_sc&gdpr=0&gdpr_consent=",
+      "https://match.adsrvr.org/track/cmf/generic?ttd_pid=pubmatic&ttd_tpi=1&gdpr=0&gdpr_consent=",
+      "https://c1.adform.net/serving/cookie/match?CC=1&party=14&cid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gdpr=0&gdpr_consent=",
+      "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156578&predirect=&gdpr=0&gdpr_consent=&google_gid=CAESEOtzar4qdNV7XneF_LlqKVA&google_cver=1",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=CAESEESWDeT0d5TL0Rls3hiD2eQ&google_cver=1",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=5693694f-80bb-4457-be69-3a4a87900c4d&gdpr=0&gdpr_consent=",
+      "https://dpm.demdex.net/demconf.jpg?et:ibs%7cdata:dpid=19566&dpuuid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODImdGw9MTU3NjgwMCZkcF9pZD0yMg==&piggybackCookie=6993364405810703834&gdpr=0&gdpr_consent=&us_privacy=",
+      "https://uipglob.semasio.net/pubmatic/1/info2?sType=sync&sExtCookieId=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&sInitiator=external&gdpr=0&gdpr_consent=",
+      "https://ups.analytics.yahoo.com/ups/58917/cms?uid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gpp=&gpp_sid=&us_privacy=&gdpr=0&gdpr_consent=&verify=true",
+      "https://ups.analytics.yahoo.com/ups/58292/sync?_origin=1&uid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&redir=true&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&verify=true",
+      "https://sg.semasio.net/sync/1/15927723?&gdpr=0&gdpr_consent=&sInitiator=external&sExtCookieId=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://idsync.rlcdn.com/1000.gif?memo=CIbVGRIwCiwIARCMowEaJERDNDJEM0VCLTBFN0EtNDY1Ri1CQ0YzLTgwNDJDMTlERTU0NRAAGg0I6L2C0wYSBQjoBxAAQgBKAA",
+      "https://image4.pubmatic.com/AdServer/SPug?partnerID=156078&xid=y-m3d0QpVE2uXti5DKoSLRiu9Jr4eE9m0-~A&gdpr=0&us_privacy=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNjQmdGw9NDMyMDA=&piggybackCookie=y-f8XSRcVE2oBxgCMhzPVlA71EGihHp.MMwT67ZgE-~A&gdpr=0",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNjQmdGw9NDMyMDA=&piggybackCookie=y-NrObFAZE2oCBVFv4nZOtC8FqRBAZeiX70jCS8F4-~A&gdpr=0",
+      "https://pippio.com/api/sync?pid=5324&it=1&iv=9590d29dbe51d0cb93a01851369ef0df9e3b700ef263652ca0e2d5992a3545c6791426b5417dce21&_=2",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD0xMjk2MDA==&piggybackCookie=uid:a35e6a60-9ee8-4d00-a742-cb5b92071931&gdpr=0&gdpr_consent=",
+      "https://simage4.pubmatic.com/AdServer/SPug?partnerID=156946&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=55926188&p=156946&s=0&a=0&ptask=ALL&np=0&fp=0&rp=1&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://www.temu.com/api/adx/cm/pixel-pubmatic?id=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gdpr=0&gdpr_consent=&us_privacy=",
+      "https://x.bidswitch.net/sync?ssp=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&us_privacy=&gpp=&gpp_sid=",
+      "https://c1.adform.net/serving/cookie/match?party=14&redirect=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://creativecdn.com/cm-notify?pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://t.adx.opera.com/pub/sync?pubid=pub8730968190912&gdpr=0&gdpr_consent=",
+      "https://sync.srv.stackadapt.com/sync?nid=11&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://cms.quantserve.com/pixel/p-5aWVS_roA1dVM.gif?idmatch=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&piggybackCookie=5970758434408381302",
+      "https://sync-tm.everesttech.net/upi/pid/b9pj45k4?redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${TM_USER_ID}&gdpr=0&gdpr_consent=",
+      "https://ib.adnxs.com/getuid?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTc4JnRsPTE1NzY4MDA=&piggybackCookie=$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+      "https://ipac.ctnsnet.com/int/cm?exc=14&redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MTEmdGw9MjAxNjA=&piggybackCookie=[user_id]&gdpr=0&gdpr_consent=",
+      "https://sync.crwdcntrl.net/qmap?c=240&tp=PUBM&tpid=DC42D3EB-0E7A-465F-BCF3-8042C19DE545&gdpr=0&gdpr_consent=",
+      "https://pixel.tapad.com/idsync/ex/receive?partner_id=3371&partner_device_id=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://dis.criteo.com/dis/usersync.aspx?r=3&p=4&cp=pubmaticUS&cu=1&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&url=https%3A%2F%2Fsimage4.pubmatic.com%2FAdServer%2FSPug%3FpartnerID%3D173010%26test%3Dctest%26partnerUID%3Duid%3A%40%40CRITEO_USERID%40%40",
+      "https://pixel.tapad.com/idsync/ex/receive/check?partner_id=3371&partner_device_id=DC42D3EB-0E7A-465F-BCF3-8042C19DE545",
+      "https://match.adsrvr.org/track/cmf/generic?ttd_pid=tapad&ttd_tpi=1&ttd_puid=9bd905a3-b267-43ab-bc6d-d98ada629a06%252C%252C&gdpr=0&gdpr_consent=",
+      "https://simage4.pubmatic.com/AdServer/SPug?partnerID=173010&test=ctest&partnerUID=uid:k-bGsGAYAhqkc0PYDwcj2WMi5oRdcWclCIegGQHQ&gdpr=0&gdpr_consent=&us_privacy=&gpp=",
+      "https://cms.quantserve.com/pixel/p-5aWVS_roA1dVM.gif?idmatch=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&__qcmcs=1",
+      "https://x.bidswitch.net/ul_cb/sync?ssp=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&us_privacy=&gpp=&gpp_sid=",
+      "https://pixel.tapad.com/idsync/ex/receive?partner_id=1830&partner_device_id=5693694f-80bb-4457-be69-3a4a87900c4d&ttd_puid=9bd905a3-b267-43ab-bc6d-d98ada629a06%2C%2C",
+      "https://image2.pubmatic.com/AdServer/Pug?gdpr=0&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=0douEd7efUDK3n4U1ok1R96PLxbKiygT09nsAMsG",
+      "https://dsp.nrich.ai/bidswitch/sync?bidswitch_ssp_id=pubmatic&bsw_custom_parameter=2a0ec753-12b3-4990-8583-0907799f70b3&gdpr=0&gdpr_consent=&gdpr_pd=&us_privacy=",
+      "https://sync-tm.everesttech.net/ct/upi/pid/b9pj45k4?redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=${TM_USER_ID}&gdpr=0&gdpr_consent=&_test=amCe6wAH5ZZ-7QAB",
+      "https://www.temu.com/api/adx/cm/pixel-opera?adx_uid=9834f43a87e4b05a&gdpr=0&gdpr_consent=&us_privacy=&redir=https%3A%2F%2Ft.oa.opera.com%2Fsync%3Fvendor%3D60369%26pubid%3Dpub8730968190912%26gdpr%3D0%26consent%3D%26us_privacy%3D%26custom_data%3D",
+      "https://creativecdn.com/cm-notify?pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&tc=1",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNTQmdGw9NDMyMDA%3D&piggybackCookie=KPzR4rsVtSAZxdudUMJTT5xesLJfjrrVY4kozsn0hDs&pi=pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&tc=1",
+      "https://t.oa.opera.com/sync?vendor=60369&pubid=pub8730968190912&gdpr=0&consent=&us_privacy=&custom_data=",
+      "https://x.bidswitch.net/sync?dsp_id=283&user_id=b9220f34-6ce8-47f7-b14c-6492ba9e969c&expires=1&user_group=5&ssp=pubmatic&bsw_param=2a0ec753-12b3-4990-8583-0907799f70b3&gdpr=0&gdpr_consent=&gdpr_pd=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=2a0ec753-12b3-4990-8583-0907799f70b3&gdpr=0&gdpr_consent=&gdpr_pd=&us_privacy=",
+      "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzEmdGw9MTI5NjAw&piggybackCookie=_Pzc00isUHxYkjcmoX8UcnZEyIc&gdpr=0&gdpr_consent=",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0ODkmdGw9NDMyMDA=&piggybackCookie=OPUd2364532a0614736b9f2b44bc19dd8c5&gpdr=0&gdpr_consent="
+    ],
+    "status": "done"
+  }
+}
