@@ -2928,7 +2928,7 @@ WindowInnerHeight(){return this._runtime.GetCanvasManager().GetLastHeight()},Win
 
       // Initialise object properties
       this._gameID = "";
-      this._sdkReady = false;
+      this._sdkReady = true;
       this._adPlaying = false;
       this._adViewed = false;
       this._preloadedAd = false;
@@ -3003,7 +3003,7 @@ WindowInnerHeight(){return this._runtime.GetCanvasManager().GetLastHeight()},Win
         if (d.getElementById(id)) return;
         js = d.createElement(s);
         js.id = id;
-        js.src = "//html5.api.gamedistribution.com/main.min.js";
+        js.src = "data:text/javascript,void 0";
         fjs.parentNode.insertBefore(js, fjs);
       })(document, "script", "gamedistribution-jssdk");
     }

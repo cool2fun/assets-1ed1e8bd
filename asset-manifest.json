@@ -110,7 +110,7 @@
       "contentType": "application/octet-stream"
     },
     {
-      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "url": "data:text/javascript,void 0",
       "file": "_external/html5.api.gamedistribution.com/main.min.js",
       "bytes": 648851,
       "status": 200,
@@ -1967,8 +1967,8 @@
       "https://um.simpli.fi/pubmatic?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9ODA2JnRsPTUxODQwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid= :: net::ERR_CONNECTION_REFUSED"
     ],
     "remoteRequests": [
-      "http://html5.api.gamedistribution.com/main.min.js",
-      "https://html5.api.gamedistribution.com/main.min.js",
+      "data:text/javascript,void 0",
+      "data:text/javascript,void 0",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MSwiYXJncyI6eyJtZXNzYWdlIjoibG9hZGluZyJ9LCJ0dGxlIjoiRHJ1bmtlbiBUYWJsZSBXYXJzIGdkIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784717024738",
       "https://game.api.gamedistribution.com/game/v4/get/%202eb47d336fb44893aa9fd30b88107d02/?domain=127.0.0.1:60169&v=1.43.58&engn=Windows&localTime=17",
       "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IiAyZWI0N2QzMzZmYjQ0ODkzYWE5ZmQzMGI4ODEwN2QwMiIsInRkbW4iOiIxMjcuMC4wLjE6NjAxNjkiLCJkb21uIjoiMTI3LjAuMC4xOjYwMTY5IiwicmZyciI6Imh0dHA6Ly8xMjcuMC4wLjE6NjAxNjkvdHVnLXRoZS10YWJsZS9pbmRleC5odG1sIiwibHRociI6MTcsImRwdGgiOjAsInZlcnMiOiIxLjQzLjU4IiwidHJhYyI6ZmFsc2UsIndobGIiOmZhbHNlLCJwbGF0IjoiIiwidHBjdCI6MiwiYXJncyI6eyJtZXNzYWdlIjoibG9hZGluZyJ9LCJ0dGxlIjoiRHJ1bmtlbiBUYWJsZSBXYXJzIGdkIiwic2l6ZSI6IjEyODAgeCA3MDQiLCJicm5tIjoiRWRnZSIsImJybWoiOiIxNTAiLCJvc25tIjoiV2luZG93cyIsIm9zdnIiOiIxMCIsImJ5bGQiOmZhbHNlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOmZhbHNlLCJjbXBlIjpmYWxzZSwiaG9zdCI6IjEyNy4wLjAuMSJ9XQ%3D%3D&ts=1784717024741",
